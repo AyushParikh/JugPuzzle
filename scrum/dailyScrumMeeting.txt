@@ -1,0 +1,78 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+	
+	Today     : Add Scrum framework documents to project. Proofread 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment. Created
+		     	most of the visuals for the JugPuzzle GUI
+	
+	Obstacles : Had to learn how to incorporate JProgressBars, and 
+				had issues linking JugPuzzleController to the new GUI class 
+
+Oct 7, 2016
+	Yesterday : Created the visuals for the GUI (VIEW). Tried to create the move
+				but had difficulties. Overall the GUI was created.
+	Today     : All of the code to make the game run is complete. The game runs
+				perfectly. The basics of the game is complete. 
+	Obstacles : Having trouble making the restart button to play the game after the game is complete
+				Having trouble making the quit button if the user decides to quit.
+	
+Oct 8, 2016
+	Yesterday : Completed most the JugPuzzle moves. Added Quit Button that quits the game
+	Today     : Today I have created the Title for the Jug Puzzle. I am working on making a restart
+				or Play Again button for the user to restart the game. I also made it so that the 
+				game opens in the center of the player's window.
+	Obstacles : There is minor bugs when creating the restart button.
+	
+Oct 9, 2016
+	Yesterday : Created the quit button that quits the game when requested by the user.
+				Also made it so the game opens in the middle of the screen instead of the top corner.
+	Today     : Altered my code, so that it has a JugPuzzleGUIView file. Added Restart button. Added highscores.
+	Obstacles : Had to learn about observables.  
+	
+Oct 10, 2016
+	Yesterday : Added observables, restart button and highscores for the user.
+	Today     : Minor bug fixes.
+	Obstacles : None 
+	
+Oct 11, 2016
+	Yesterday : Minor Bug Fixes.
+	Today     : Tried to add custom cursor/custom image background.
+	Obstacles : Custom cursor and / custom image background is not showing up in the frame. Will work on it tomorrow.
+	
+Oct 12, 2016
+	Yesterday : Tried to add custom cursor/custom image background.
+	Today     : Added colors to the buttons, to make them look more cleaner. Changed
+				borders and backgrounds of all the buttons.
+	Obstacles : None.
+	
+Oct 13, 2016
+	Yesterday : Added colours to the buttons, and make a cleaner design.
+	Today     : Trying to edit the background and create a flat and more modern UI
+				Added all of the Javadocs.
+	Obstacles : None.
+	
+Oct 14, 2016
+	Yesterday : Trying to edit the background and create a flat and more modern UI
+				Added all of the Javadocs.
+	Today     : Added extra comments, easier to read code.
+	Obstacles : None
+	
+Oct 15, 2016
+	Yesterday : Added extra comments, easier to read the code
+	Today     : Commit and push by tonight at midnight for ontime submission.
+				Completed project and handed it in
+	Obstacles : None.
+
+Oct 16, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Oct 17, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :
